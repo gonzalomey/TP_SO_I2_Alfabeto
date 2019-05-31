@@ -1,0 +1,4 @@
+1- git remote add x (hhtp repositorio del que se forkea)
+2- Si, si se especifica de donde se Forkea
+3- Si, si se especifica de donde se Forkea
+4- No se pierden
